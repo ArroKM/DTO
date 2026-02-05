@@ -1754,26 +1754,6 @@ if __name__ == '__main__':
     init_db()
     
     print("""
-    🍽️  KASIR MODERN - FULL FEATURES
-    ====================================
-    🎯 FITUR:
-    1. ✅ Login & Register
-    2. ✅ Role & Permission
-    3. ✅ Pesanan Manual & Online (QR Code)
-    4. ✅ Profile & Logout
-    5. ✅ Payment Gateway (Midtrans)
-    6. ✅ Spice Level & Hot/Cold Options
-    7. ✅ Statistics & Reports (PDF & Excel)
-    8. ✅ Admin Management
-    9. ✅ Income Management
-    10. ✅ Menu dari PDF Solaria
-    11. ✅ Kitchen Display untuk Koki
-    12. ✅ Manajemen Meja (Tambah/Hapus)
-    
-    📱 Modern UI dengan Tailwind CSS
-    🎨 Glassmorphism Design
-    🔐 Secure Authentication
-    
     👤 Default Login:
        Admin: admin / admin123
        Kasir: kasir / kasir123
